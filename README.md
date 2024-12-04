@@ -60,7 +60,8 @@
 
     <section id="about">
         <h2 class="section-title">About Us</h2>
-        <p>Megalinks Consolidated Investment Ltd, owners of Crown Luxury City Asaba and Crown Paradise Asaba, is dedicated to transforming lives through innovative real estate marketing and networking. We provide exceptional properties and personalized services tailored to meet the unique needs of individuals and families.</p>
+        <p>MEGALINKS is a revolutionary real estate marketing networking company poised to transform property investment. In today’s fast-paced world, building wealth and achieving financial freedom require innovative thinking and strategic partnerships. That's why we created MEGALINKS: to enable individuals and groups to thrive in the real estate industry.
+.</p>
         <p>Our mission is to empower individuals and groups by creating opportunities for financial freedom and wealth creation in the real estate industry.</p>
     </section>
 
