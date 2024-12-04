@@ -102,9 +102,9 @@
     <section id="contact">
         <h2 class="section-title">Contact Us</h2>
         <p>We’d love to hear from you! Reach out to us:</p>
-        <p>Email: info@megalinks.com</p>
-        <p>Phone: +234-XXX-XXXX-XXX</p>
-        <p>Office Address: Crown Luxury City Asaba, Nigeria.</p>
+        <p>Email: consolidatedmegalinks@gmail.cominfo@megalinks.com</p>
+        <p>Phone: +234-8028888298</p>
+        <p>Office Address: Shop C7 informani market behind Arts and culture area 10 Garki  Abuja.</p>
     </section>
 
     <footer>
